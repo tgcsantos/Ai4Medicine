@@ -164,3 +164,11 @@
 - Feature Importance
 - Individual Feaure Importance
 - Interpreting Deep Learing Models
+
+## Artigos e Tutoriais
+
+- [Artigo da Nature](https://www.nature.com/articles/s41746-020-0295-6) sobre os desafios em datasets na área da medicina
+
+- [Research Engine](https://learning.oreilly.com/jupyter-notebooks/building-a-cord-19/9781492085652/) para busca de artigos da COVID-19
+
+- [Analise e predições do COVID-19](https://learning.oreilly.com/jupyter-notebooks/analysis-and-prediction/9781492082194/) na Itália
