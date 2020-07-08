@@ -24,3 +24,7 @@
 ### Curso 04: Deep Learning
 
 - TBD
+
+## GERAL
+
+- Aprensentar alguns exemples de modelos já praticados da madicina
