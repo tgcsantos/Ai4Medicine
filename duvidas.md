@@ -2,3 +2,4 @@
 
 2. Quais são os valores padroẽs do CHADS VASC?
 
+3. Definir um baseline para o C-index?
