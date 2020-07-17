@@ -9,7 +9,7 @@
 
 Em resumo, proagnóstico é um termo médico que se refere a previsões de risco de um futuro risco!
 
-Um modelo de proagnóstico recebe como entrada caracteríticas do paciênte, histórico médico, aspéctos físicos e exames e retorna uma pontuação ou probabilidade de ter determinada doença. Além disso cada atributo da entrada pode ter pesos diferentes no momento de criar seu modelo de proagnóstico.
+Um modelo de proagnóstico recebe como entrada caracteríticas do paciênte, histórico médico, aspéctos físicos e exames e retorna uma pontuação ou probabilidade de ter determinada doença. Além disso cada atributo da entrada pode ter pesos diferentes no momento de criar seu modelo de proagnóstico. PS. a equação de risco é praticamente um polinômio.
 
 Alguns exemplos de modelos proagnóstico são:
 

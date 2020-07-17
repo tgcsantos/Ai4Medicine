@@ -28,3 +28,5 @@
 ## GERAL
 
 - Aprensentar alguns exemples de modelos já praticados da madicina
+- Equação de risco
+- Falar sobre C-index
