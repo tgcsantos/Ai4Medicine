@@ -55,3 +55,12 @@ As propriedades de um modelo de sobrevivência é sempre iniciar com propabilida
 Outro fator que muda do modelos de sobrevicência para o modelo de proagnóstico, é aa forma de coletar os dados! Em proagnóstico temos uma escala binária para o diagnóstico de uma doença (yes/no). Mas para um modelo de sobrevivência temos uma escala de "tempo" onde monitoramos o paciênte e verificamos se há ou não o acontecimento de determinado evento. Entretando não é tão simples, pois temos o que chamamos de censuring (censura), é quando deixamos de monitorar o paciênte por algum motivo e não sabemos o que ocorre com ele nesse tempo posterior! Ou seja monitamos por 3 meses e por algum motivo qualquer deixamos de monitorá-lo!
 
 Quando isso acontece podemos considerar duas situações, uma em que ocorre determinado evento logo após a perda de contato e outra na qual nunca ocorre. Assim teremos dois extremos e valores relativamente diferentes entre as partes e para resolver essa diferença aplicamos conceitos de cadêias de markov e chagamos em algo chamado de **Kaplan Meier Estimate** que gera um melhor resultado entre os extremos. 
+
+
+### Predições Individuais
+
+#### Hazard Functions
+
+É uma curso que modelo o risco ao atingir determinado t, risco eminente de morte após uma cirurgia, por exemplo! Esse risco tem relação com o modelo de sobrevivência!
+Nosso função de risco pode ser geral, mas isso nao representa o risco de um indivíduo particular, podemos pegar um base line e multiplicar por um fator de que ajusta nossa função de risco aquela pessoa. o mais interessante é que não precisamos saber a função de risco, o fator multiplicador pode gerar um rank entre os paciêntes, além de conseguir enteder o peso de cada uma das variáveis que forma o fator multiplicador
+
