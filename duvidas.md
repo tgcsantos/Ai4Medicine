@@ -11,3 +11,7 @@ R: Geralemnte é usado para bater o valor ouro, benchmark usado até o momento, 
 R: Na realidade nós fazemos duas suposições, que acontece determinado evento imediatamente e que não ocorre determinado evento imediatamente!
 
 6. Qual é a implicação de usar o C-index? Pq não usar realmente uma medida como acurácia?
+
+7. O que p MCAR, MAR, MNAR?
+
+8. Por o LOG, remove o desvio da distribuição?
